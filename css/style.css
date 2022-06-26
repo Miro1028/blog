@@ -11,6 +11,22 @@
 
 .sidebar {
     background-color: #4F4F4F;
+    color: white;
     width: 26%;
     height: 100vh;
+    font-family: 'Signika Negative', sans-serif;
+    
 }
+
+.profile {
+    background-image: url(/img/profile.svg);
+    background-repeat: no-repeat;
+    width: 242px;
+    height: 279px;
+    
+}
+
+#introduction {
+    font-size: 23px;
+    justify-items: center;
+} 
