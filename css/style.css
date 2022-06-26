@@ -4,7 +4,7 @@
 }
 
 .hero {
-    background-image: url(/img/polygon-scatter-haikei.svg);
+    background-image: url(img/polygon-scatter-haikei.svg);
     width: 100%;
     height: 100vh;
 }
@@ -19,7 +19,7 @@
 }
 
 .profile {
-    background-image: url(/img/profile.svg);
+    background-image: url(img/profile.svg);
     background-repeat: no-repeat;
     width: 242px;
     height: 279px;
